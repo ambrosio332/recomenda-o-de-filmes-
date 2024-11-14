@@ -1,0 +1,16 @@
+ /* ESTILO GERAL */
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+       font-family: monospace;
+    }
+    
+    body{
+        background-color:#000000 ;
+        height: 100vh;
+   color:rgb(226, 43, 104);
+   font-size: large;
+        
+    }
